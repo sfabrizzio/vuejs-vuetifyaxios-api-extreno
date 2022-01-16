@@ -1,6 +1,6 @@
 import axios from "axios";
 export default axios.create({
-    baseURL:'http://localhost:3000/',
+    baseURL:'https://newsapi.org/v2/',
     headers:{
         'Accept':'application/json',
         'Content-Type':'application/json'
