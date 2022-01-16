@@ -4,7 +4,8 @@
   <v-app-bar-nav-icon @click="drawer=!drawer"
                       class="white--text">
   </v-app-bar-nav-icon>
-     <v-toolbar-title>Noticias 2022</v-toolbar-title>
+     <v-toolbar-title>Noticias ultimo - 
+       2022</v-toolbar-title>
 </v-app-bar>
 <v-main>
   <v-content>
